@@ -1,5 +1,5 @@
 
-![1](https://github.com/user-attachments/assets/a57ce699-8032-48aa-8d4d-7b40b8094ca4)
+
 
 # Case-Study-1---Danny-s-Diner
 # Introduction
@@ -20,7 +20,7 @@ All datasets exist within the dannys_diner database schema - be sure to include 
 # Table 1: sales
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
 
-customer_id	order_date	product_id
+*/ customer_id	order_date	product_id
 A	2021-01-01	1
 A	2021-01-01	2
 A	2021-01-07	2
@@ -36,6 +36,7 @@ B	2021-02-01	3
 C	2021-01-01	3
 C	2021-01-01	3
 C	2021-01-07	3
+*/
 
 #Table 2: menu
 The menu table maps the product_id to the actual product_name and price of each menu item.
